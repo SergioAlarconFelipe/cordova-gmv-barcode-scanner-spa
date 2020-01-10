@@ -82,8 +82,8 @@
 
         <config-file target="res/values/strings.xml" parent="/*">
             <string name="ok">OK</string>
-            <string name="permission_camera_rationale">Se necesita el acceso a la cámara para la detección</string>
-            <string name="no_camera_permission">Esta aplicación no se puede ejecutar porque no tiene el permiso de la cámara. La aplicación se cerrará ahora.</string>
+            <string name="permission_camera_rationale">Se necesita el acceso a la cámara para escanear códigos de barras.</string>
+            <string name="no_camera_permission">El escáner no se puede ejecutar porque no tiene el permiso de la cámara.</string>
             <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
             <string name="title_activity_main">Barcode Reader Activity</string>
             <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
